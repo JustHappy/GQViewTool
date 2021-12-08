@@ -1,0 +1,6 @@
+framework module GQViewTool {
+  umbrella header "GQViewTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
